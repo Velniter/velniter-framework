@@ -1,10 +1,10 @@
-# GUD-FRAMEWORK-PHP
+# VELNITER-FRAMEWORK-PHP
 
 - Installation
 
 1. Download
 
-git clone ``https://github.com/BayuRifkiAlghifari/GUD-FRAMEWORK-PHP.git`` or Download on this repository
+git clone ``https://github.com/Velniter/velniter-framework`` or Download on this repository
 
 2. Base URL Configuration
 
